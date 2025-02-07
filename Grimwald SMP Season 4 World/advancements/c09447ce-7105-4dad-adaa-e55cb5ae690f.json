@@ -1,0 +1,57 @@
+{
+  "grant_gryczan:root": {
+    "criteria": {
+      "tick": "2021-02-21 16:26:33 +0100"
+    },
+    "done": true
+  },
+  "vanillatweaks:root": {
+    "criteria": {
+      "tick": "2021-02-21 16:26:33 +0100"
+    },
+    "done": true
+  },
+  "vanillatweaks:player_head_drops": {
+    "criteria": {
+      "tick": "2021-02-21 16:26:33 +0100"
+    },
+    "done": true
+  },
+  "vanillatweaks:anti_enderman_grief": {
+    "criteria": {
+      "tick": "2021-02-21 16:26:33 +0100"
+    },
+    "done": true
+  },
+  "grant_gryczan:armored_elytra": {
+    "criteria": {
+      "tick": "2021-02-21 16:26:33 +0100"
+    },
+    "done": true
+  },
+  "vanillatweaks:multiplayer_sleep": {
+    "criteria": {
+      "tick": "2021-02-21 16:26:33 +0100"
+    },
+    "done": true
+  },
+  "vanillatweaks:fast_leaf_decay": {
+    "criteria": {
+      "tick": "2021-02-21 16:26:33 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:beach": "2021-02-21 16:26:33 +0100"
+    },
+    "done": false
+  },
+  "vanillatweaks:double_shulker_shells": {
+    "criteria": {
+      "tick": "2021-02-21 16:26:33 +0100"
+    },
+    "done": true
+  },
+  "DataVersion": 2586
+}
